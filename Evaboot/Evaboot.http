@@ -1,0 +1,6 @@
+@Evaboot_HostAddress = http://localhost:5049
+
+GET {{Evaboot_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

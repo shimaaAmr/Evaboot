@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Tracks\\DEPI\\Eng Abdelrahman\\Test API\\Evaboot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21335A08-07C1-4951-9EC1-CC315EA47CA2}|Evaboot\\Evaboot.csproj|d:\\tracks\\depi\\eng abdelrahman\\test api\\evaboot\\evaboot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{21335A08-07C1-4951-9EC1-CC315EA47CA2}|Evaboot\\Evaboot.csproj|solutionrelative:evaboot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Tracks\\DEPI\\Eng Abdelrahman\\Test API\\Evaboot\\Evaboot\\appsettings.json",
+              "RelativeDocumentMoniker": "Evaboot\\appsettings.json",
+              "ToolTip": "D:\\Tracks\\DEPI\\Eng Abdelrahman\\Test API\\Evaboot\\Evaboot\\appsettings.json",
+              "RelativeToolTip": "Evaboot\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-16T15:31:40.795Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
